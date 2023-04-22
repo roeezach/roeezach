@@ -1,4 +1,4 @@
-## I'm Roee, a Software developer 👋
+## 👋 I'm Roee, a Software developer 
 
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=roeezach&show_icons=true&theme=radical" />
 
