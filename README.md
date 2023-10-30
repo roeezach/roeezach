@@ -5,7 +5,7 @@
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 
 ### 📧 Contact:
-[![gmail Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=gmail&logoColor=white&color=red)](roeezach15@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roee-zach-658a04237/)
+[![gmail Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=gmail&logoColor=white&color=red)](mailto:roeezach15@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roee-zach-658a04237/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
