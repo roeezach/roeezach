@@ -3,8 +3,11 @@
 - 💻 Currently, I'm a second year computer science student with over 2 years of experience as automation developer.
 - ✍️ I also enjoy sharing my knowledge through my linkedin page.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roee-zach-658a04237/)
-  
+
+### 📧 Contact:
+[![gmail Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=gmail&logoColor=white&color=red)](roeezach15@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-roeezachlue?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roee-zach-658a04237/)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
@@ -28,6 +31,4 @@
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=roeezach&show_icons=true&theme=radical&count_private=true&show_icons=true" />
 
 <img align ="left" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeezach&hide_progress=false&layout=compact&theme=radical" />
-
-
 
